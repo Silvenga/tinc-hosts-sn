@@ -1,13 +1,5 @@
 Subnet = 10.0.0.0/16
 IndirectData = yes
-#-----BEGIN RSA PUBLIC KEY-----
-#MIIBCgKCAQEArXPppGuH85EK7uuIWpw8he3/x3Qetei4c+qgvjRrJE63fxDZ88Y4
-#liQW5d+gpXMdrp10vCocXn98XsdRefLgl+jUR8z+DQ233QbPhhITM/wapFigbuFn
-#0NaF8TXl/ZEpDu5KupXvlWn9WNY2KwvsW8k+1XhPSVuAbUmkukBIfqO15jwPMroB
-#TrzxsT5seE24hv8L/jNNa0fttgxvdKvCY/flBXYRqCzzbW0IKE+xN5ZV68yTGRyc
-#l3Ufdhrx37DuhfnVkK/Mzlgrf5RsqpnkMW7c821OZGMHZtPLAZsLuCdKddZqQuxJ
-#lN6rWWH8aK70VzmaymeJI8g4Ph5+erwskwIDAQAB
-#-----END RSA PUBLIC KEY-----
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEAziPrDunZGTdXCQ4KF0ufj4R8fqaaDiorLWC8rUYtMf3rlJtip+r/
 wgO02YtFGDYe6NbIb8e6CWquF3qPqMmD7/nNkhFIf6S5FON2vlsQpxvjCC2yONKr
