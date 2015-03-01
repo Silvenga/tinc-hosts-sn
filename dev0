@@ -1,2 +1,11 @@
 Address = dev0.silvenga.com
 Subnet = 10.0.0.0/16
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAweGHSRFyjgtuuMIMak9o43olzdyKRPJuE/2EZLqX4+DdkqqeJBre
+AMRKZBvtoq7D7tNQZ41uC1uvZPADjmiF+wyZFSBd3cvAePwn3Ubdlo/wdnFhF01q
+Q91ZXXPKIl6CQpFvdt8/SPS5Of3CVEqJ28bPEUxu4v0cv18KvzTbWfVDCSMRciUf
+xpFaMNFTob93N80+zRX7mM2V/8e8sCiqmEER2aCYsyqs+FzH5lfGWVZG2bq0GIM0
+Uj7/ZrCVcMxciSHif/rczhRwwnXNZoWc4f8tgbKp1g2Q9LB18bzQK9cgvsMwNj4F
+ZCSpoj9jC+hkvRQjfqluuNcjGYE9fYlwEQIDAQAB
+-----END RSA PUBLIC KEY-----
+Ed25519PublicKey = E3abGOQOL8xCxKNadT9x3hpb4aX7FlxhFoce+x4KmxP
