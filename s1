@@ -1,5 +1,6 @@
 Subnet = 10.0.0.0/16
 Address = 192.168.0.104
+IndirectData = yes
 #-----BEGIN RSA PUBLIC KEY-----
 #MIIBCgKCAQEAqr3fgIqE7wImTuAFAB4utjWpFEmPkGUWD5cXh92bbLR0PKtlyF6g
 #BCcCz0UGlKekYfGNZeOO5IB3XAJQt2pRJmzVil8QSwAhSP0Bi3cHKDOp27ljF4lv
