@@ -1,6 +1,4 @@
 Subnet = 10.0.0.0/16
-IndirectData = yes
-
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEAvSmO+fTjG+hsb+o8tTAVc7TsjELYb/r/ppbWXPRiERaXbD46uJao
 /d++BsQdfcUNfQfeIgjTwBShgWUZyRh6mluC9aV8cliTV9OZCaCipB0HhOzNLJ6r
