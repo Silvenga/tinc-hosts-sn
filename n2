@@ -1,5 +1,6 @@
 Address = n2.silvenga.com
 Subnet = 10.0.0.0/16
+IndirectData = yes
 ECDSAPublicKey = CEApl+StL3b3hRpENv4dCyYfuh2Mppt3auHjbS1O4gy8wvdcNme7Ns02Hg49+1AxTM8tkcn5SozIX325cnwySgf6BB
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEAopvnr7LQ/61YkCeHeD2VtZF/ucahnVy+AZZjV0sTK/o9nD4+0mnK
