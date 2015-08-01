@@ -1,3 +1,5 @@
+Address = d4.silvenga.com
+Subnet = 10.0.0.0/16
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEAqFcwNnWTBay8qKZs2usaAcrRuSkB4/FpovLl13NDI9nKty7qGHsb
 Bb4ogFIXio0do0MAJ6Vd+AfYs2SmN64OZx05LdG5RDBOpLrz+J+oTiGL+girPOVw
