@@ -1,6 +1,7 @@
 Subnet = 10.0.0.0/16
 Address = w0.silvenga.com
-IndirectData = yes-----BEGIN RSA PUBLIC KEY-----
+IndirectData = yes
+-----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEAxjrMZNIK2vQuAamnK/1IBc2qCvWEI7pGhdZa4lO19v8x3j/vlmo0
 peAYJFq8+Lqn1HS1mtk6JcljVPK3yjTbxvpmFrpZk5K2FQ5sBBVjmew5osboKlla
 E19v7d1/mwD8keZ55vrHFqq9AfQuKpb3WFb8bzSm7fFyX+t4honGiCzg07Ssyy4A
