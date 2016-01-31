@@ -1,12 +1,5 @@
-#-----BEGIN RSA PUBLIC KEY-----
-#MIIBCgKCAQEArs/5AmfLno9qd6Oj8R8fwv+XhF3uGtZsJ+xtGnNgOQdvJDqZoLg7
-#lWx0go3pebt7d+O4BMHoIK5aglEK/10G79sEJlq1xBwEHWCU9jxWgIgt/UyOyKB4
-#jNfDwhaDy/IWLDjdOBl8SaGo7bgk13HmnLHBmGXhTSStSrBVOvnuyApTTYnU+T87
-#ovMM+kU8TXrCk4v8TJSwPiE3Azk08w8iPWx+VVIdeyHNFvMiOP1fWjQyJDO+k75S
-#hxZwVzzP4D9KNcpU5ZXnPUwqax3kwOiNEcBtfE2lBdwrBhdxQYux2UZis4UAjjgJ
-#c58rv7zLIuZ82V5yAnxiLzqCZr2Xht9mkQIDAQAB
-#-----END RSA PUBLIC KEY-----
-#Ed25519PublicKey = 4cmsLMrhhsVPTn41niQthXM20YWeev/Ytm6y/RH+ufA
+Address = d5.silvenga.com
+Subnet = 10.0.0.0/16
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEAyLNPjj+MLfF+r/+PtyWTaM5WaAFyMSJPxTAFD8dFoB2i+Vl5vi0G
 Pk7Uo99u+kXiBzGO88v4o97+uN4kJeRsurDhtm3HT+HfVy3utWnZJXDOes1iDfja

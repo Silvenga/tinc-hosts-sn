@@ -1,3 +1,5 @@
+Address = x0.silvenga.com
+Subnet = 10.0.0.0/16
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEAxlRsBOoKM1eR1nyvZ4RlqgeGmI3WgP706hC82YaFLJcGQVmdOlK2
 dTo2kZFsyiMO57sh0ZGAewzqST1fRPxYq2ixJwVFncnoPpndCV5qTPjKITE1PqdK

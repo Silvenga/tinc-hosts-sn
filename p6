@@ -1,6 +1,5 @@
 Address = p6.silvenga.com
 Subnet = 10.0.0.0/16
-ECDSAPublicKey = DEQUXqSCmWTAzfvJXsW1vwFYvNLpMhcNe2GquxW8OT6bQrpp+tkzBmIDwT8epu0bdSzIJqotLMsvSq3BRTo2HopqiA
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEA5WDzYCzG0hbJJ2lf07wgOAR6xlZEoebLOmypSHSTrjBGXG7XvKTH
 Bp65gh2sUeYFpWbD5JXm8skNbC7MciGlkU9IE8zW98YPo3kDQsk2tCG2kktheVz2

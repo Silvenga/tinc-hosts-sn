@@ -1,3 +1,0 @@
-Subnet = 10.0.0.0/16
-Address = 192.168.0.101
-IndirectData = yes
