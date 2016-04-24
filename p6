@@ -1,4 +1,4 @@
-Address = p6.silvenga.com
+Address = p6.silvenga.net
 Subnet = 10.0.0.0/16
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEA5WDzYCzG0hbJJ2lf07wgOAR6xlZEoebLOmypSHSTrjBGXG7XvKTH
