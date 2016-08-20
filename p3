@@ -1,11 +1,20 @@
 Address = p3.silvenga.net
 Subnet = 10.0.0.0/16
+#-----BEGIN RSA PUBLIC KEY-----
+#MIIBCgKCAQEA4Ulrsn2fxWE319VoYNnL/Exi5xp29nnczkwNWyH9xkDWpozEVKKh
+#McErznUfPRUq+o3Kv/VpmqozNie1wskSG9cqdBluEeo3GuzL8yUicxLLKfrtNitD
+#jl3xqnuGNdrxYdTg7Q2oE8GvrFxtfLCXr3jrozLWzMXBwgKHLa2u+p4qXaVahTY5
+#pqUcRKjizu1zEvgVZeGkUfe5OAMpDKa9PKkonJh5OLX3ttF0RE0Bf23PxcfFUJet
+#Hpk4XKNNJQueu7vWqq0NDkhItncknP4BJscochc1SC7wVriwztS77MIYYrMF/1Ko
+#Bk/XMwyNRQcs0j7pIISEJYnfhdpJxfNyfQIDAQAB
+#-----END RSA PUBLIC KEY-----
+#Ed25519PublicKey = lx2hMuEv6YxAS1JmbnfVrquto7hR4J4lQVQi/kLpE3J
 -----BEGIN RSA PUBLIC KEY-----
-MIIBCgKCAQEA4Ulrsn2fxWE319VoYNnL/Exi5xp29nnczkwNWyH9xkDWpozEVKKh
-McErznUfPRUq+o3Kv/VpmqozNie1wskSG9cqdBluEeo3GuzL8yUicxLLKfrtNitD
-jl3xqnuGNdrxYdTg7Q2oE8GvrFxtfLCXr3jrozLWzMXBwgKHLa2u+p4qXaVahTY5
-pqUcRKjizu1zEvgVZeGkUfe5OAMpDKa9PKkonJh5OLX3ttF0RE0Bf23PxcfFUJet
-Hpk4XKNNJQueu7vWqq0NDkhItncknP4BJscochc1SC7wVriwztS77MIYYrMF/1Ko
-Bk/XMwyNRQcs0j7pIISEJYnfhdpJxfNyfQIDAQAB
+MIIBCgKCAQEA06EeoEb0GYe98FxLehRQjwlU5PlKxSNyfLFqkzXGA40Fhq8sgGq9
+nBzCPEegslO6oWt1vcb6GFNNqq4T+IWOujbpslbw8zEzJaRG+HuqZlGI8+OJ2tKC
+ZkVeI+pgSlam6R4HHkYeTSjlqZwMtnQcz3WltwvYgYoJh3+pd/GXIzjJ9d15dm2Z
+im62SwJ+q7W1zUdR3Is2lPsxjGbSdt3mCLhWmqTiEd+5kbFCb1paO68jhh3p3MtW
+lX9FcjUmMBAOHNmsaqgTGdSue1m7wv3xRM9fexa2fIcRowAFw3VsWDnXQ7+jkeH5
+FkT9oDrgMcy2HGsCFtnGDYxjzMLWr6OsLQIDAQAB
 -----END RSA PUBLIC KEY-----
-Ed25519PublicKey = lx2hMuEv6YxAS1JmbnfVrquto7hR4J4lQVQi/kLpE3J
+Ed25519PublicKey = HkZmBr1dOXQRuo/Vpagy+TKGTMgM7U6uG/qN+tml9eF
